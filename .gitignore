@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+CMakeFiles
+CMakeCache.txt
+.vscode
+cmake_install.cmake
+Makefile
+SputnikEngine
+
+include/libs
+src/SoLoud
